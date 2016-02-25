@@ -1,0 +1,7 @@
+This is a python code which will:
+
+	1) scrape basketball-reference.com for the latest player and team stats
+	2) clean and combine the two sources of data
+	3) filter the players by playing style
+	4) build linear regression models for each player style and each player and 
+	   combine the two using a weighted sum.  

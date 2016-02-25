@@ -1,0 +1,1230 @@
+,Datetime,Away,Home
+0,2015-10-27,Detroit Pistons,Atlanta Hawks
+1,2015-10-27,Cleveland Cavaliers,Chicago Bulls
+2,2015-10-27,New Orleans Pelicans,Golden State Warriors
+3,2015-10-28,Philadelphia 76ers,Boston Celtics
+4,2015-10-28,Chicago Bulls,Brooklyn Nets
+5,2015-10-28,Utah Jazz,Detroit Pistons
+6,2015-10-28,Denver Nuggets,Houston Rockets
+7,2015-10-28,Minnesota Timberwolves,Los Angeles Lakers
+8,2015-10-28,Cleveland Cavaliers,Memphis Grizzlies
+9,2015-10-28,Charlotte Hornets,Miami Heat
+10,2015-10-28,New York Knicks,Milwaukee Bucks
+11,2015-10-28,San Antonio Spurs,Oklahoma City Thunder
+12,2015-10-28,Washington Wizards,Orlando Magic
+13,2015-10-28,Dallas Mavericks,Phoenix Suns
+14,2015-10-28,New Orleans Pelicans,Portland Trail Blazers
+15,2015-10-28,Los Angeles Clippers,Sacramento Kings
+16,2015-10-28,Indiana Pacers,Toronto Raptors
+17,2015-10-29,Memphis Grizzlies,Indiana Pacers
+18,2015-10-29,Dallas Mavericks,Los Angeles Clippers
+19,2015-10-29,Atlanta Hawks,New York Knicks
+20,2015-10-30,Charlotte Hornets,Atlanta Hawks
+21,2015-10-30,Toronto Raptors,Boston Celtics
+22,2015-10-30,Miami Heat,Cleveland Cavaliers
+23,2015-10-30,Minnesota Timberwolves,Denver Nuggets
+24,2015-10-30,Chicago Bulls,Detroit Pistons
+25,2015-10-30,Golden State Warriors,Houston Rockets
+26,2015-10-30,Washington Wizards,Milwaukee Bucks
+27,2015-10-30,Oklahoma City Thunder,Orlando Magic
+28,2015-10-30,Utah Jazz,Philadelphia 76ers
+29,2015-10-30,Portland Trail Blazers,Phoenix Suns
+30,2015-10-30,Los Angeles Lakers,Sacramento Kings
+31,2015-10-30,Brooklyn Nets,San Antonio Spurs
+32,2015-10-31,Utah Jazz,Indiana Pacers
+33,2015-10-31,Sacramento Kings,Los Angeles Clippers
+34,2015-10-31,Brooklyn Nets,Memphis Grizzlies
+35,2015-10-31,Golden State Warriors,New Orleans Pelicans
+36,2015-10-31,Phoenix Suns,Portland Trail Blazers
+37,2015-10-31,New York Knicks,Washington Wizards
+38,2015-11-01,San Antonio Spurs,Boston Celtics
+39,2015-11-01,Orlando Magic,Chicago Bulls
+40,2015-11-01,Atlanta Hawks,Charlotte Hornets
+41,2015-11-01,Dallas Mavericks,Los Angeles Lakers
+42,2015-11-01,Houston Rockets,Miami Heat
+43,2015-11-01,Denver Nuggets,Oklahoma City Thunder
+44,2015-11-01,Milwaukee Bucks,Toronto Raptors
+45,2015-11-02,Milwaukee Bucks,Brooklyn Nets
+46,2015-11-02,Memphis Grizzlies,Golden State Warriors
+47,2015-11-02,Oklahoma City Thunder,Houston Rockets
+48,2015-11-02,Phoenix Suns,Los Angeles Clippers
+49,2015-11-02,Portland Trail Blazers,Minnesota Timberwolves
+50,2015-11-02,San Antonio Spurs,New York Knicks
+51,2015-11-02,Cleveland Cavaliers,Philadelphia 76ers
+52,2015-11-03,Chicago Bulls,Charlotte Hornets
+53,2015-11-03,Toronto Raptors,Dallas Mavericks
+54,2015-11-03,Indiana Pacers,Detroit Pistons
+55,2015-11-03,Denver Nuggets,Los Angeles Lakers
+56,2015-11-03,Atlanta Hawks,Miami Heat
+57,2015-11-03,Orlando Magic,New Orleans Pelicans
+58,2015-11-03,Memphis Grizzlies,Sacramento Kings
+59,2015-11-04,Brooklyn Nets,Atlanta Hawks
+60,2015-11-04,New York Knicks,Cleveland Cavaliers
+61,2015-11-04,Los Angeles Clippers,Golden State Warriors
+62,2015-11-04,Orlando Magic,Houston Rockets
+63,2015-11-04,Boston Celtics,Indiana Pacers
+64,2015-11-04,Philadelphia 76ers,Milwaukee Bucks
+65,2015-11-04,Toronto Raptors,Oklahoma City Thunder
+66,2015-11-04,Sacramento Kings,Phoenix Suns
+67,2015-11-04,Portland Trail Blazers,Utah Jazz
+68,2015-11-04,San Antonio Spurs,Washington Wizards
+69,2015-11-05,Oklahoma City Thunder,Chicago Bulls
+70,2015-11-05,Charlotte Hornets,Dallas Mavericks
+71,2015-11-05,Utah Jazz,Denver Nuggets
+72,2015-11-05,Miami Heat,Minnesota Timberwolves
+73,2015-11-05,Memphis Grizzlies,Portland Trail Blazers
+74,2015-11-06,Washington Wizards,Boston Celtics
+75,2015-11-06,Los Angeles Lakers,Brooklyn Nets
+76,2015-11-06,Philadelphia 76ers,Cleveland Cavaliers
+77,2015-11-06,Denver Nuggets,Golden State Warriors
+78,2015-11-06,Miami Heat,Indiana Pacers
+79,2015-11-06,Atlanta Hawks,New Orleans Pelicans
+80,2015-11-06,Milwaukee Bucks,New York Knicks
+81,2015-11-06,Toronto Raptors,Orlando Magic
+82,2015-11-06,Detroit Pistons,Phoenix Suns
+83,2015-11-06,Houston Rockets,Sacramento Kings
+84,2015-11-07,Washington Wizards,Atlanta Hawks
+85,2015-11-07,Minnesota Timberwolves,Chicago Bulls
+86,2015-11-07,New Orleans Pelicans,Dallas Mavericks
+87,2015-11-07,Houston Rockets,Los Angeles Clippers
+88,2015-11-07,Brooklyn Nets,Milwaukee Bucks
+89,2015-11-07,Orlando Magic,Philadelphia 76ers
+90,2015-11-07,Golden State Warriors,Sacramento Kings
+91,2015-11-07,Charlotte Hornets,San Antonio Spurs
+92,2015-11-07,Memphis Grizzlies,Utah Jazz
+93,2015-11-08,Indiana Pacers,Cleveland Cavaliers
+94,2015-11-08,Toronto Raptors,Miami Heat
+95,2015-11-08,Los Angeles Lakers,New York Knicks
+96,2015-11-08,Phoenix Suns,Oklahoma City Thunder
+97,2015-11-08,Detroit Pistons,Portland Trail Blazers
+98,2015-11-09,Minnesota Timberwolves,Atlanta Hawks
+99,2015-11-09,Portland Trail Blazers,Denver Nuggets
+100,2015-11-09,Detroit Pistons,Golden State Warriors
+101,2015-11-09,Orlando Magic,Indiana Pacers
+102,2015-11-09,Memphis Grizzlies,Los Angeles Clippers
+103,2015-11-09,Chicago Bulls,Philadelphia 76ers
+104,2015-11-09,San Antonio Spurs,Sacramento Kings
+105,2015-11-10,Utah Jazz,Cleveland Cavaliers
+106,2015-11-10,Los Angeles Lakers,Miami Heat
+107,2015-11-10,Boston Celtics,Milwaukee Bucks
+108,2015-11-10,Charlotte Hornets,Minnesota Timberwolves
+109,2015-11-10,Dallas Mavericks,New Orleans Pelicans
+110,2015-11-10,New York Knicks,Toronto Raptors
+111,2015-11-10,Oklahoma City Thunder,Washington Wizards
+112,2015-11-11,New Orleans Pelicans,Atlanta Hawks
+113,2015-11-11,Indiana Pacers,Boston Celtics
+114,2015-11-11,New York Knicks,Charlotte Hornets
+115,2015-11-11,Los Angeles Clippers,Dallas Mavericks
+116,2015-11-11,Milwaukee Bucks,Denver Nuggets
+117,2015-11-11,Brooklyn Nets,Houston Rockets
+118,2015-11-11,Golden State Warriors,Memphis Grizzlies
+119,2015-11-11,Los Angeles Lakers,Orlando Magic
+120,2015-11-11,Toronto Raptors,Philadelphia 76ers
+121,2015-11-11,San Antonio Spurs,Portland Trail Blazers
+122,2015-11-11,Detroit Pistons,Sacramento Kings
+123,2015-11-12,Utah Jazz,Miami Heat
+124,2015-11-12,Golden State Warriors,Minnesota Timberwolves
+125,2015-11-12,Los Angeles Clippers,Phoenix Suns
+126,2015-11-13,Atlanta Hawks,Boston Celtics
+127,2015-11-13,Charlotte Hornets,Chicago Bulls
+128,2015-11-13,Los Angeles Lakers,Dallas Mavericks
+129,2015-11-13,Houston Rockets,Denver Nuggets
+130,2015-11-13,Minnesota Timberwolves,Indiana Pacers
+131,2015-11-13,Portland Trail Blazers,Memphis Grizzlies
+132,2015-11-13,Cleveland Cavaliers,New York Knicks
+133,2015-11-13,Philadelphia 76ers,Oklahoma City Thunder
+134,2015-11-13,Utah Jazz,Orlando Magic
+135,2015-11-13,Brooklyn Nets,Sacramento Kings
+136,2015-11-13,New Orleans Pelicans,Toronto Raptors
+137,2015-11-14,Brooklyn Nets,Golden State Warriors
+138,2015-11-14,Dallas Mavericks,Houston Rockets
+139,2015-11-14,Detroit Pistons,Los Angeles Clippers
+140,2015-11-14,Cleveland Cavaliers,Milwaukee Bucks
+141,2015-11-14,Denver Nuggets,Phoenix Suns
+142,2015-11-14,Philadelphia 76ers,San Antonio Spurs
+143,2015-11-14,Orlando Magic,Washington Wizards
+144,2015-11-15,Utah Jazz,Atlanta Hawks
+145,2015-11-15,Portland Trail Blazers,Charlotte Hornets
+146,2015-11-15,Detroit Pistons,Los Angeles Lakers
+147,2015-11-15,Memphis Grizzlies,Minnesota Timberwolves
+148,2015-11-15,New Orleans Pelicans,New York Knicks
+149,2015-11-15,Boston Celtics,Oklahoma City Thunder
+150,2015-11-15,Toronto Raptors,Sacramento Kings
+151,2015-11-16,Indiana Pacers,Chicago Bulls
+152,2015-11-16,Boston Celtics,Houston Rockets
+153,2015-11-16,Oklahoma City Thunder,Memphis Grizzlies
+154,2015-11-16,Dallas Mavericks,Philadelphia 76ers
+155,2015-11-16,Los Angeles Lakers,Phoenix Suns
+156,2015-11-16,Portland Trail Blazers,San Antonio Spurs
+157,2015-11-17,Atlanta Hawks,Brooklyn Nets
+158,2015-11-17,Cleveland Cavaliers,Detroit Pistons
+159,2015-11-17,Toronto Raptors,Golden State Warriors
+160,2015-11-17,Minnesota Timberwolves,Miami Heat
+161,2015-11-17,Denver Nuggets,New Orleans Pelicans
+162,2015-11-17,Charlotte Hornets,New York Knicks
+163,2015-11-17,Milwaukee Bucks,Washington Wizards
+164,2015-11-18,Sacramento Kings,Atlanta Hawks
+165,2015-11-18,Dallas Mavericks,Boston Celtics
+166,2015-11-18,Brooklyn Nets,Charlotte Hornets
+167,2015-11-18,Portland Trail Blazers,Houston Rockets
+168,2015-11-18,New Orleans Pelicans,Oklahoma City Thunder
+169,2015-11-18,Minnesota Timberwolves,Orlando Magic
+170,2015-11-18,Indiana Pacers,Philadelphia 76ers
+171,2015-11-18,Chicago Bulls,Phoenix Suns
+172,2015-11-18,Denver Nuggets,San Antonio Spurs
+173,2015-11-18,Toronto Raptors,Utah Jazz
+174,2015-11-19,Milwaukee Bucks,Cleveland Cavaliers
+175,2015-11-19,Golden State Warriors,Los Angeles Clippers
+176,2015-11-19,Sacramento Kings,Miami Heat
+177,2015-11-20,Brooklyn Nets,Boston Celtics
+178,2015-11-20,Philadelphia 76ers,Charlotte Hornets
+179,2015-11-20,Utah Jazz,Dallas Mavericks
+180,2015-11-20,Phoenix Suns,Denver Nuggets
+181,2015-11-20,Chicago Bulls,Golden State Warriors
+182,2015-11-20,Toronto Raptors,Los Angeles Lakers
+183,2015-11-20,Houston Rockets,Memphis Grizzlies
+184,2015-11-20,Detroit Pistons,Minnesota Timberwolves
+185,2015-11-20,San Antonio Spurs,New Orleans Pelicans
+186,2015-11-20,New York Knicks,Oklahoma City Thunder
+187,2015-11-20,Los Angeles Clippers,Portland Trail Blazers
+188,2015-11-21,Atlanta Hawks,Cleveland Cavaliers
+189,2015-11-21,Washington Wizards,Detroit Pistons
+190,2015-11-21,New York Knicks,Houston Rockets
+191,2015-11-21,Milwaukee Bucks,Indiana Pacers
+192,2015-11-21,Philadelphia 76ers,Miami Heat
+193,2015-11-21,Sacramento Kings,Orlando Magic
+194,2015-11-21,Memphis Grizzlies,San Antonio Spurs
+195,2015-11-22,Boston Celtics,Brooklyn Nets
+196,2015-11-22,Golden State Warriors,Denver Nuggets
+197,2015-11-22,Toronto Raptors,Los Angeles Clippers
+198,2015-11-22,Portland Trail Blazers,Los Angeles Lakers
+199,2015-11-22,Phoenix Suns,New Orleans Pelicans
+200,2015-11-22,Dallas Mavericks,Oklahoma City Thunder
+201,2015-11-23,Sacramento Kings,Charlotte Hornets
+202,2015-11-23,Orlando Magic,Cleveland Cavaliers
+203,2015-11-23,New York Knicks,Miami Heat
+204,2015-11-23,Detroit Pistons,Milwaukee Bucks
+205,2015-11-23,Philadelphia 76ers,Minnesota Timberwolves
+206,2015-11-23,Phoenix Suns,San Antonio Spurs
+207,2015-11-23,Oklahoma City Thunder,Utah Jazz
+208,2015-11-24,Boston Celtics,Atlanta Hawks
+209,2015-11-24,Los Angeles Clippers,Denver Nuggets
+210,2015-11-24,Los Angeles Lakers,Golden State Warriors
+211,2015-11-24,Dallas Mavericks,Memphis Grizzlies
+212,2015-11-24,Chicago Bulls,Portland Trail Blazers
+213,2015-11-24,Indiana Pacers,Washington Wizards
+214,2015-11-25,Philadelphia 76ers,Boston Celtics
+215,2015-11-25,Washington Wizards,Charlotte Hornets
+216,2015-11-25,Miami Heat,Detroit Pistons
+217,2015-11-25,Memphis Grizzlies,Houston Rockets
+218,2015-11-25,Utah Jazz,Los Angeles Clippers
+219,2015-11-25,Sacramento Kings,Milwaukee Bucks
+220,2015-11-25,Atlanta Hawks,Minnesota Timberwolves
+221,2015-11-25,Brooklyn Nets,Oklahoma City Thunder
+222,2015-11-25,New York Knicks,Orlando Magic
+223,2015-11-25,New Orleans Pelicans,Phoenix Suns
+224,2015-11-25,Dallas Mavericks,San Antonio Spurs
+225,2015-11-25,Cleveland Cavaliers,Toronto Raptors
+226,2015-11-27,Washington Wizards,Boston Celtics
+227,2015-11-27,Cleveland Cavaliers,Charlotte Hornets
+228,2015-11-27,San Antonio Spurs,Denver Nuggets
+229,2015-11-27,Philadelphia 76ers,Houston Rockets
+230,2015-11-27,Chicago Bulls,Indiana Pacers
+231,2015-11-27,New Orleans Pelicans,Los Angeles Clippers
+232,2015-11-27,Atlanta Hawks,Memphis Grizzlies
+233,2015-11-27,Miami Heat,New York Knicks
+234,2015-11-27,Detroit Pistons,Oklahoma City Thunder
+235,2015-11-27,Milwaukee Bucks,Orlando Magic
+236,2015-11-27,Golden State Warriors,Phoenix Suns
+237,2015-11-27,Minnesota Timberwolves,Sacramento Kings
+238,2015-11-28,Brooklyn Nets,Cleveland Cavaliers
+239,2015-11-28,Denver Nuggets,Dallas Mavericks
+240,2015-11-28,Sacramento Kings,Golden State Warriors
+241,2015-11-28,Los Angeles Lakers,Portland Trail Blazers
+242,2015-11-28,Atlanta Hawks,San Antonio Spurs
+243,2015-11-28,New Orleans Pelicans,Utah Jazz
+244,2015-11-28,Toronto Raptors,Washington Wizards
+245,2015-11-29,Detroit Pistons,Brooklyn Nets
+246,2015-11-29,Milwaukee Bucks,Charlotte Hornets
+247,2015-11-29,Minnesota Timberwolves,Los Angeles Clippers
+248,2015-11-29,Indiana Pacers,Los Angeles Lakers
+249,2015-11-29,Philadelphia 76ers,Memphis Grizzlies
+250,2015-11-29,Houston Rockets,New York Knicks
+251,2015-11-29,Boston Celtics,Orlando Magic
+252,2015-11-29,Phoenix Suns,Toronto Raptors
+253,2015-11-30,Oklahoma City Thunder,Atlanta Hawks
+254,2015-11-30,San Antonio Spurs,Chicago Bulls
+255,2015-11-30,Houston Rockets,Detroit Pistons
+256,2015-11-30,Portland Trail Blazers,Los Angeles Clippers
+257,2015-11-30,Boston Celtics,Miami Heat
+258,2015-11-30,Denver Nuggets,Milwaukee Bucks
+259,2015-11-30,Dallas Mavericks,Sacramento Kings
+260,2015-11-30,Golden State Warriors,Utah Jazz
+261,2015-12-01,Phoenix Suns,Brooklyn Nets
+262,2015-12-01,Washington Wizards,Cleveland Cavaliers
+263,2015-12-01,Orlando Magic,Minnesota Timberwolves
+264,2015-12-01,Memphis Grizzlies,New Orleans Pelicans
+265,2015-12-01,Los Angeles Lakers,Philadelphia 76ers
+266,2015-12-01,Dallas Mavericks,Portland Trail Blazers
+267,2015-12-02,Toronto Raptors,Atlanta Hawks
+268,2015-12-02,Denver Nuggets,Chicago Bulls
+269,2015-12-02,Golden State Warriors,Charlotte Hornets
+270,2015-12-02,Phoenix Suns,Detroit Pistons
+271,2015-12-02,New Orleans Pelicans,Houston Rockets
+272,2015-12-02,Indiana Pacers,Los Angeles Clippers
+273,2015-12-02,Philadelphia 76ers,New York Knicks
+274,2015-12-02,Milwaukee Bucks,San Antonio Spurs
+275,2015-12-02,Los Angeles Lakers,Washington Wizards
+276,2015-12-03,San Antonio Spurs,Memphis Grizzlies
+277,2015-12-03,Oklahoma City Thunder,Miami Heat
+278,2015-12-03,Indiana Pacers,Portland Trail Blazers
+279,2015-12-03,Boston Celtics,Sacramento Kings
+280,2015-12-03,Denver Nuggets,Toronto Raptors
+281,2015-12-03,Orlando Magic,Utah Jazz
+282,2015-12-04,Los Angeles Lakers,Atlanta Hawks
+283,2015-12-04,Houston Rockets,Dallas Mavericks
+284,2015-12-04,Milwaukee Bucks,Detroit Pistons
+285,2015-12-04,Cleveland Cavaliers,New Orleans Pelicans
+286,2015-12-04,Brooklyn Nets,New York Knicks
+287,2015-12-04,Phoenix Suns,Washington Wizards
+288,2015-12-05,Charlotte Hornets,Chicago Bulls
+289,2015-12-05,Sacramento Kings,Houston Rockets
+290,2015-12-05,Orlando Magic,Los Angeles Clippers
+291,2015-12-05,Cleveland Cavaliers,Miami Heat
+292,2015-12-05,New York Knicks,Milwaukee Bucks
+293,2015-12-05,Portland Trail Blazers,Minnesota Timberwolves
+294,2015-12-05,Denver Nuggets,Philadelphia 76ers
+295,2015-12-05,Boston Celtics,San Antonio Spurs
+296,2015-12-05,Golden State Warriors,Toronto Raptors
+297,2015-12-05,Indiana Pacers,Utah Jazz
+298,2015-12-06,Golden State Warriors,Brooklyn Nets
+299,2015-12-06,Los Angeles Lakers,Detroit Pistons
+300,2015-12-06,Phoenix Suns,Memphis Grizzlies
+301,2015-12-06,Sacramento Kings,Oklahoma City Thunder
+302,2015-12-06,Dallas Mavericks,Washington Wizards
+303,2015-12-07,Phoenix Suns,Chicago Bulls
+304,2015-12-07,Detroit Pistons,Charlotte Hornets
+305,2015-12-07,Washington Wizards,Miami Heat
+306,2015-12-07,Portland Trail Blazers,Milwaukee Bucks
+307,2015-12-07,Los Angeles Clippers,Minnesota Timberwolves
+308,2015-12-07,Boston Celtics,New Orleans Pelicans
+309,2015-12-07,Dallas Mavericks,New York Knicks
+310,2015-12-07,San Antonio Spurs,Philadelphia 76ers
+311,2015-12-07,Los Angeles Lakers,Toronto Raptors
+312,2015-12-08,Houston Rockets,Brooklyn Nets
+313,2015-12-08,Portland Trail Blazers,Cleveland Cavaliers
+314,2015-12-08,Orlando Magic,Denver Nuggets
+315,2015-12-08,Golden State Warriors,Indiana Pacers
+316,2015-12-08,Oklahoma City Thunder,Memphis Grizzlies
+317,2015-12-08,Utah Jazz,Sacramento Kings
+318,2015-12-09,Chicago Bulls,Boston Celtics
+319,2015-12-09,Miami Heat,Charlotte Hornets
+320,2015-12-09,Atlanta Hawks,Dallas Mavericks
+321,2015-12-09,Memphis Grizzlies,Detroit Pistons
+322,2015-12-09,Los Angeles Clippers,Milwaukee Bucks
+323,2015-12-09,Los Angeles Lakers,Minnesota Timberwolves
+324,2015-12-09,Orlando Magic,Phoenix Suns
+325,2015-12-09,San Antonio Spurs,Toronto Raptors
+326,2015-12-09,New York Knicks,Utah Jazz
+327,2015-12-09,Houston Rockets,Washington Wizards
+328,2015-12-10,Philadelphia 76ers,Brooklyn Nets
+329,2015-12-10,Los Angeles Clippers,Chicago Bulls
+330,2015-12-10,Atlanta Hawks,Oklahoma City Thunder
+331,2015-12-10,New York Knicks,Sacramento Kings
+332,2015-12-11,Golden State Warriors,Boston Celtics
+333,2015-12-11,Minnesota Timberwolves,Denver Nuggets
+334,2015-12-11,Miami Heat,Indiana Pacers
+335,2015-12-11,Charlotte Hornets,Memphis Grizzlies
+336,2015-12-11,Washington Wizards,New Orleans Pelicans
+337,2015-12-11,Cleveland Cavaliers,Orlando Magic
+338,2015-12-11,Detroit Pistons,Philadelphia 76ers
+339,2015-12-11,Portland Trail Blazers,Phoenix Suns
+340,2015-12-11,Los Angeles Lakers,San Antonio Spurs
+341,2015-12-11,Milwaukee Bucks,Toronto Raptors
+342,2015-12-11,Oklahoma City Thunder,Utah Jazz
+343,2015-12-12,San Antonio Spurs,Atlanta Hawks
+344,2015-12-12,Los Angeles Clippers,Brooklyn Nets
+345,2015-12-12,New Orleans Pelicans,Chicago Bulls
+346,2015-12-12,Boston Celtics,Charlotte Hornets
+347,2015-12-12,Washington Wizards,Dallas Mavericks
+348,2015-12-12,Indiana Pacers,Detroit Pistons
+349,2015-12-12,Los Angeles Lakers,Houston Rockets
+350,2015-12-12,Golden State Warriors,Milwaukee Bucks
+351,2015-12-12,New York Knicks,Portland Trail Blazers
+352,2015-12-13,Memphis Grizzlies,Miami Heat
+353,2015-12-13,Utah Jazz,Oklahoma City Thunder
+354,2015-12-13,Minnesota Timberwolves,Phoenix Suns
+355,2015-12-13,Philadelphia 76ers,Toronto Raptors
+356,2015-12-14,Miami Heat,Atlanta Hawks
+357,2015-12-14,Orlando Magic,Brooklyn Nets
+358,2015-12-14,Philadelphia 76ers,Chicago Bulls
+359,2015-12-14,Phoenix Suns,Dallas Mavericks
+360,2015-12-14,Houston Rockets,Denver Nuggets
+361,2015-12-14,Los Angeles Clippers,Detroit Pistons
+362,2015-12-14,Toronto Raptors,Indiana Pacers
+363,2015-12-14,Washington Wizards,Memphis Grizzlies
+364,2015-12-14,New Orleans Pelicans,Portland Trail Blazers
+365,2015-12-14,Utah Jazz,San Antonio Spurs
+366,2015-12-15,Cleveland Cavaliers,Boston Celtics
+367,2015-12-15,Milwaukee Bucks,Los Angeles Lakers
+368,2015-12-15,Denver Nuggets,Minnesota Timberwolves
+369,2015-12-15,Houston Rockets,Sacramento Kings
+370,2015-12-16,Philadelphia 76ers,Atlanta Hawks
+371,2015-12-16,Miami Heat,Brooklyn Nets
+372,2015-12-16,Memphis Grizzlies,Chicago Bulls
+373,2015-12-16,Boston Celtics,Detroit Pistons
+374,2015-12-16,Phoenix Suns,Golden State Warriors
+375,2015-12-16,Dallas Mavericks,Indiana Pacers
+376,2015-12-16,Milwaukee Bucks,Los Angeles Clippers
+377,2015-12-16,Minnesota Timberwolves,New York Knicks
+378,2015-12-16,Portland Trail Blazers,Oklahoma City Thunder
+379,2015-12-16,Charlotte Hornets,Orlando Magic
+380,2015-12-16,Washington Wizards,San Antonio Spurs
+381,2015-12-16,New Orleans Pelicans,Utah Jazz
+382,2015-12-17,Toronto Raptors,Charlotte Hornets
+383,2015-12-17,Oklahoma City Thunder,Cleveland Cavaliers
+384,2015-12-17,Houston Rockets,Los Angeles Lakers
+385,2015-12-18,Atlanta Hawks,Boston Celtics
+386,2015-12-18,Detroit Pistons,Chicago Bulls
+387,2015-12-18,Memphis Grizzlies,Dallas Mavericks
+388,2015-12-18,Milwaukee Bucks,Golden State Warriors
+389,2015-12-18,Brooklyn Nets,Indiana Pacers
+390,2015-12-18,Toronto Raptors,Miami Heat
+391,2015-12-18,Sacramento Kings,Minnesota Timberwolves
+392,2015-12-18,Portland Trail Blazers,Orlando Magic
+393,2015-12-18,New York Knicks,Philadelphia 76ers
+394,2015-12-18,New Orleans Pelicans,Phoenix Suns
+395,2015-12-18,Los Angeles Clippers,San Antonio Spurs
+396,2015-12-18,Denver Nuggets,Utah Jazz
+397,2015-12-19,Los Angeles Clippers,Houston Rockets
+398,2015-12-19,Indiana Pacers,Memphis Grizzlies
+399,2015-12-19,Chicago Bulls,New York Knicks
+400,2015-12-19,Los Angeles Lakers,Oklahoma City Thunder
+401,2015-12-19,Charlotte Hornets,Washington Wizards
+402,2015-12-20,Minnesota Timberwolves,Brooklyn Nets
+403,2015-12-20,Philadelphia 76ers,Cleveland Cavaliers
+404,2015-12-20,New Orleans Pelicans,Denver Nuggets
+405,2015-12-20,Portland Trail Blazers,Miami Heat
+406,2015-12-20,Atlanta Hawks,Orlando Magic
+407,2015-12-20,Milwaukee Bucks,Phoenix Suns
+408,2015-12-20,Sacramento Kings,Toronto Raptors
+409,2015-12-21,Portland Trail Blazers,Atlanta Hawks
+410,2015-12-21,Minnesota Timberwolves,Boston Celtics
+411,2015-12-21,Brooklyn Nets,Chicago Bulls
+412,2015-12-21,Charlotte Hornets,Houston Rockets
+413,2015-12-21,Oklahoma City Thunder,Los Angeles Clippers
+414,2015-12-21,Orlando Magic,New York Knicks
+415,2015-12-21,Indiana Pacers,San Antonio Spurs
+416,2015-12-21,Phoenix Suns,Utah Jazz
+417,2015-12-21,Sacramento Kings,Washington Wizards
+418,2015-12-22,Los Angeles Lakers,Denver Nuggets
+419,2015-12-22,Detroit Pistons,Miami Heat
+420,2015-12-22,Memphis Grizzlies,Philadelphia 76ers
+421,2015-12-22,Dallas Mavericks,Toronto Raptors
+422,2015-12-23,Detroit Pistons,Atlanta Hawks
+423,2015-12-23,Dallas Mavericks,Brooklyn Nets
+424,2015-12-23,Boston Celtics,Charlotte Hornets
+425,2015-12-23,New York Knicks,Cleveland Cavaliers
+426,2015-12-23,Utah Jazz,Golden State Warriors
+427,2015-12-23,Sacramento Kings,Indiana Pacers
+428,2015-12-23,Oklahoma City Thunder,Los Angeles Lakers
+429,2015-12-23,Philadelphia 76ers,Milwaukee Bucks
+430,2015-12-23,San Antonio Spurs,Minnesota Timberwolves
+431,2015-12-23,Portland Trail Blazers,New Orleans Pelicans
+432,2015-12-23,Houston Rockets,Orlando Magic
+433,2015-12-23,Denver Nuggets,Phoenix Suns
+434,2015-12-23,Memphis Grizzlies,Washington Wizards
+435,2015-12-25,Cleveland Cavaliers,Golden State Warriors
+436,2015-12-25,San Antonio Spurs,Houston Rockets
+437,2015-12-25,Los Angeles Clippers,Los Angeles Lakers
+438,2015-12-25,New Orleans Pelicans,Miami Heat
+439,2015-12-25,Chicago Bulls,Oklahoma City Thunder
+440,2015-12-26,New York Knicks,Atlanta Hawks
+441,2015-12-26,Washington Wizards,Brooklyn Nets
+442,2015-12-26,Memphis Grizzlies,Charlotte Hornets
+443,2015-12-26,Chicago Bulls,Dallas Mavericks
+444,2015-12-26,Boston Celtics,Detroit Pistons
+445,2015-12-26,Toronto Raptors,Milwaukee Bucks
+446,2015-12-26,Indiana Pacers,Minnesota Timberwolves
+447,2015-12-26,Houston Rockets,New Orleans Pelicans
+448,2015-12-26,Miami Heat,Orlando Magic
+449,2015-12-26,Philadelphia 76ers,Phoenix Suns
+450,2015-12-26,Cleveland Cavaliers,Portland Trail Blazers
+451,2015-12-26,Denver Nuggets,San Antonio Spurs
+452,2015-12-26,Los Angeles Clippers,Utah Jazz
+453,2015-12-27,New York Knicks,Boston Celtics
+454,2015-12-27,Los Angeles Lakers,Memphis Grizzlies
+455,2015-12-27,Denver Nuggets,Oklahoma City Thunder
+456,2015-12-27,Portland Trail Blazers,Sacramento Kings
+457,2015-12-28,Toronto Raptors,Chicago Bulls
+458,2015-12-28,Los Angeles Lakers,Charlotte Hornets
+459,2015-12-28,Milwaukee Bucks,Dallas Mavericks
+460,2015-12-28,Sacramento Kings,Golden State Warriors
+461,2015-12-28,Atlanta Hawks,Indiana Pacers
+462,2015-12-28,Brooklyn Nets,Miami Heat
+463,2015-12-28,New Orleans Pelicans,Orlando Magic
+464,2015-12-28,Cleveland Cavaliers,Phoenix Suns
+465,2015-12-28,Minnesota Timberwolves,San Antonio Spurs
+466,2015-12-28,Philadelphia 76ers,Utah Jazz
+467,2015-12-28,Los Angeles Clippers,Washington Wizards
+468,2015-12-29,Cleveland Cavaliers,Denver Nuggets
+469,2015-12-29,Atlanta Hawks,Houston Rockets
+470,2015-12-29,Miami Heat,Memphis Grizzlies
+471,2015-12-29,Detroit Pistons,New York Knicks
+472,2015-12-29,Milwaukee Bucks,Oklahoma City Thunder
+473,2015-12-30,Los Angeles Lakers,Boston Celtics
+474,2015-12-30,Indiana Pacers,Chicago Bulls
+475,2015-12-30,Los Angeles Clippers,Charlotte Hornets
+476,2015-12-30,Golden State Warriors,Dallas Mavericks
+477,2015-12-30,Utah Jazz,Minnesota Timberwolves
+478,2015-12-30,Brooklyn Nets,Orlando Magic
+479,2015-12-30,Denver Nuggets,Portland Trail Blazers
+480,2015-12-30,Philadelphia 76ers,Sacramento Kings
+481,2015-12-30,Phoenix Suns,San Antonio Spurs
+482,2015-12-30,Washington Wizards,Toronto Raptors
+483,2015-12-31,Minnesota Timberwolves,Detroit Pistons
+484,2015-12-31,Golden State Warriors,Houston Rockets
+485,2015-12-31,Milwaukee Bucks,Indiana Pacers
+486,2015-12-31,Los Angeles Clippers,New Orleans Pelicans
+487,2015-12-31,Phoenix Suns,Oklahoma City Thunder
+488,2015-12-31,Portland Trail Blazers,Utah Jazz
+489,2016-01-01,New York Knicks,Chicago Bulls
+490,2016-01-01,Philadelphia 76ers,Los Angeles Lakers
+491,2016-01-01,Dallas Mavericks,Miami Heat
+492,2016-01-01,Charlotte Hornets,Toronto Raptors
+493,2016-01-01,Orlando Magic,Washington Wizards
+494,2016-01-02,Brooklyn Nets,Boston Celtics
+495,2016-01-02,Oklahoma City Thunder,Charlotte Hornets
+496,2016-01-02,Orlando Magic,Cleveland Cavaliers
+497,2016-01-02,New Orleans Pelicans,Dallas Mavericks
+498,2016-01-02,Denver Nuggets,Golden State Warriors
+499,2016-01-02,Detroit Pistons,Indiana Pacers
+500,2016-01-02,Philadelphia 76ers,Los Angeles Clippers
+501,2016-01-02,Milwaukee Bucks,Minnesota Timberwolves
+502,2016-01-02,Phoenix Suns,Sacramento Kings
+503,2016-01-02,Houston Rockets,San Antonio Spurs
+504,2016-01-02,Memphis Grizzlies,Utah Jazz
+505,2016-01-03,Portland Trail Blazers,Denver Nuggets
+506,2016-01-03,Phoenix Suns,Los Angeles Lakers
+507,2016-01-03,Atlanta Hawks,New York Knicks
+508,2016-01-03,Chicago Bulls,Toronto Raptors
+509,2016-01-03,Miami Heat,Washington Wizards
+510,2016-01-04,Boston Celtics,Brooklyn Nets
+511,2016-01-04,Toronto Raptors,Cleveland Cavaliers
+512,2016-01-04,Orlando Magic,Detroit Pistons
+513,2016-01-04,Charlotte Hornets,Golden State Warriors
+514,2016-01-04,Indiana Pacers,Miami Heat
+515,2016-01-04,San Antonio Spurs,Milwaukee Bucks
+516,2016-01-04,Sacramento Kings,Oklahoma City Thunder
+517,2016-01-04,Minnesota Timberwolves,Philadelphia 76ers
+518,2016-01-04,Memphis Grizzlies,Portland Trail Blazers
+519,2016-01-04,Houston Rockets,Utah Jazz
+520,2016-01-05,New York Knicks,Atlanta Hawks
+521,2016-01-05,Milwaukee Bucks,Chicago Bulls
+522,2016-01-05,Sacramento Kings,Dallas Mavericks
+523,2016-01-05,Golden State Warriors,Los Angeles Lakers
+524,2016-01-06,Detroit Pistons,Boston Celtics
+525,2016-01-06,Toronto Raptors,Brooklyn Nets
+526,2016-01-06,New York Knicks,Miami Heat
+527,2016-01-06,Denver Nuggets,Minnesota Timberwolves
+528,2016-01-06,Dallas Mavericks,New Orleans Pelicans
+529,2016-01-06,Memphis Grizzlies,Oklahoma City Thunder
+530,2016-01-06,Indiana Pacers,Orlando Magic
+531,2016-01-06,Charlotte Hornets,Phoenix Suns
+532,2016-01-06,Los Angeles Clippers,Portland Trail Blazers
+533,2016-01-06,Utah Jazz,San Antonio Spurs
+534,2016-01-06,Cleveland Cavaliers,Washington Wizards
+535,2016-01-07,Boston Celtics,Chicago Bulls
+536,2016-01-07,Utah Jazz,Houston Rockets
+537,2016-01-07,Atlanta Hawks,Philadelphia 76ers
+538,2016-01-07,Los Angeles Lakers,Sacramento Kings
+539,2016-01-08,Orlando Magic,Brooklyn Nets
+540,2016-01-08,Oklahoma City Thunder,Los Angeles Lakers
+541,2016-01-08,Denver Nuggets,Memphis Grizzlies
+542,2016-01-08,Dallas Mavericks,Milwaukee Bucks
+543,2016-01-08,Cleveland Cavaliers,Minnesota Timberwolves
+544,2016-01-08,Indiana Pacers,New Orleans Pelicans
+545,2016-01-08,Miami Heat,Phoenix Suns
+546,2016-01-08,Golden State Warriors,Portland Trail Blazers
+547,2016-01-08,New York Knicks,San Antonio Spurs
+548,2016-01-08,Toronto Raptors,Washington Wizards
+549,2016-01-09,Chicago Bulls,Atlanta Hawks
+550,2016-01-09,Brooklyn Nets,Detroit Pistons
+551,2016-01-09,Charlotte Hornets,Los Angeles Clippers
+552,2016-01-09,Washington Wizards,Orlando Magic
+553,2016-01-09,Toronto Raptors,Philadelphia 76ers
+554,2016-01-09,Golden State Warriors,Sacramento Kings
+555,2016-01-09,Miami Heat,Utah Jazz
+556,2016-01-10,Charlotte Hornets,Denver Nuggets
+557,2016-01-10,Indiana Pacers,Houston Rockets
+558,2016-01-10,New Orleans Pelicans,Los Angeles Clippers
+559,2016-01-10,Utah Jazz,Los Angeles Lakers
+560,2016-01-10,Boston Celtics,Memphis Grizzlies
+561,2016-01-10,Dallas Mavericks,Minnesota Timberwolves
+562,2016-01-10,Milwaukee Bucks,New York Knicks
+563,2016-01-10,Cleveland Cavaliers,Philadelphia 76ers
+564,2016-01-10,Oklahoma City Thunder,Portland Trail Blazers
+565,2016-01-11,San Antonio Spurs,Brooklyn Nets
+566,2016-01-11,Washington Wizards,Chicago Bulls
+567,2016-01-11,Miami Heat,Golden State Warriors
+568,2016-01-12,Cleveland Cavaliers,Dallas Mavericks
+569,2016-01-12,San Antonio Spurs,Detroit Pistons
+570,2016-01-12,Phoenix Suns,Indiana Pacers
+571,2016-01-12,New Orleans Pelicans,Los Angeles Lakers
+572,2016-01-12,Houston Rockets,Memphis Grizzlies
+573,2016-01-12,Chicago Bulls,Milwaukee Bucks
+574,2016-01-12,Oklahoma City Thunder,Minnesota Timberwolves
+575,2016-01-12,Boston Celtics,New York Knicks
+576,2016-01-13,Indiana Pacers,Boston Celtics
+577,2016-01-13,New York Knicks,Brooklyn Nets
+578,2016-01-13,Atlanta Hawks,Charlotte Hornets
+579,2016-01-13,Golden State Warriors,Denver Nuggets
+580,2016-01-13,Minnesota Timberwolves,Houston Rockets
+581,2016-01-13,Miami Heat,Los Angeles Clippers
+582,2016-01-13,Dallas Mavericks,Oklahoma City Thunder
+583,2016-01-13,Utah Jazz,Portland Trail Blazers
+584,2016-01-13,New Orleans Pelicans,Sacramento Kings
+585,2016-01-13,Milwaukee Bucks,Washington Wizards
+586,2016-01-14,Los Angeles Lakers,Golden State Warriors
+587,2016-01-14,Detroit Pistons,Memphis Grizzlies
+588,2016-01-14,Toronto Raptors,Orlando Magic
+589,2016-01-14,Chicago Bulls,Philadelphia 76ers
+590,2016-01-14,Cleveland Cavaliers,San Antonio Spurs
+591,2016-01-14,Sacramento Kings,Utah Jazz
+592,2016-01-15,Phoenix Suns,Boston Celtics
+593,2016-01-15,Portland Trail Blazers,Brooklyn Nets
+594,2016-01-15,Dallas Mavericks,Chicago Bulls
+595,2016-01-15,Miami Heat,Denver Nuggets
+596,2016-01-15,Cleveland Cavaliers,Houston Rockets
+597,2016-01-15,Washington Wizards,Indiana Pacers
+598,2016-01-15,Atlanta Hawks,Milwaukee Bucks
+599,2016-01-15,Charlotte Hornets,New Orleans Pelicans
+600,2016-01-15,Minnesota Timberwolves,Oklahoma City Thunder
+601,2016-01-16,Brooklyn Nets,Atlanta Hawks
+602,2016-01-16,Milwaukee Bucks,Charlotte Hornets
+603,2016-01-16,Golden State Warriors,Detroit Pistons
+604,2016-01-16,Sacramento Kings,Los Angeles Clippers
+605,2016-01-16,New York Knicks,Memphis Grizzlies
+606,2016-01-16,Portland Trail Blazers,Philadelphia 76ers
+607,2016-01-16,Los Angeles Lakers,Utah Jazz
+608,2016-01-16,Boston Celtics,Washington Wizards
+609,2016-01-17,Indiana Pacers,Denver Nuggets
+610,2016-01-17,Houston Rockets,Los Angeles Lakers
+611,2016-01-17,Phoenix Suns,Minnesota Timberwolves
+612,2016-01-17,Miami Heat,Oklahoma City Thunder
+613,2016-01-17,Dallas Mavericks,San Antonio Spurs
+614,2016-01-18,Orlando Magic,Atlanta Hawks
+615,2016-01-18,Utah Jazz,Charlotte Hornets
+616,2016-01-18,Golden State Warriors,Cleveland Cavaliers
+617,2016-01-18,Boston Celtics,Dallas Mavericks
+618,2016-01-18,Chicago Bulls,Detroit Pistons
+619,2016-01-18,Houston Rockets,Los Angeles Clippers
+620,2016-01-18,New Orleans Pelicans,Memphis Grizzlies
+621,2016-01-18,Philadelphia 76ers,New York Knicks
+622,2016-01-18,Brooklyn Nets,Toronto Raptors
+623,2016-01-18,Portland Trail Blazers,Washington Wizards
+624,2016-01-19,Oklahoma City Thunder,Denver Nuggets
+625,2016-01-19,Milwaukee Bucks,Miami Heat
+626,2016-01-19,Minnesota Timberwolves,New Orleans Pelicans
+627,2016-01-19,Indiana Pacers,Phoenix Suns
+628,2016-01-20,Cleveland Cavaliers,Brooklyn Nets
+629,2016-01-20,Golden State Warriors,Chicago Bulls
+630,2016-01-20,Minnesota Timberwolves,Dallas Mavericks
+631,2016-01-20,Detroit Pistons,Houston Rockets
+632,2016-01-20,Sacramento Kings,Los Angeles Lakers
+633,2016-01-20,Utah Jazz,New York Knicks
+634,2016-01-20,Charlotte Hornets,Oklahoma City Thunder
+635,2016-01-20,Philadelphia 76ers,Orlando Magic
+636,2016-01-20,Atlanta Hawks,Portland Trail Blazers
+637,2016-01-20,Boston Celtics,Toronto Raptors
+638,2016-01-20,Miami Heat,Washington Wizards
+639,2016-01-21,Los Angeles Clippers,Cleveland Cavaliers
+640,2016-01-21,Memphis Grizzlies,Denver Nuggets
+641,2016-01-21,Detroit Pistons,New Orleans Pelicans
+642,2016-01-21,San Antonio Spurs,Phoenix Suns
+643,2016-01-21,Atlanta Hawks,Sacramento Kings
+644,2016-01-22,Chicago Bulls,Boston Celtics
+645,2016-01-22,Utah Jazz,Brooklyn Nets
+646,2016-01-22,Oklahoma City Thunder,Dallas Mavericks
+647,2016-01-22,Indiana Pacers,Golden State Warriors
+648,2016-01-22,Milwaukee Bucks,Houston Rockets
+649,2016-01-22,San Antonio Spurs,Los Angeles Lakers
+650,2016-01-22,Los Angeles Clippers,New York Knicks
+651,2016-01-22,Charlotte Hornets,Orlando Magic
+652,2016-01-22,Miami Heat,Toronto Raptors
+653,2016-01-23,New York Knicks,Charlotte Hornets
+654,2016-01-23,Chicago Bulls,Cleveland Cavaliers
+655,2016-01-23,Detroit Pistons,Denver Nuggets
+656,2016-01-23,Memphis Grizzlies,Minnesota Timberwolves
+657,2016-01-23,Milwaukee Bucks,New Orleans Pelicans
+658,2016-01-23,Atlanta Hawks,Phoenix Suns
+659,2016-01-23,Los Angeles Lakers,Portland Trail Blazers
+660,2016-01-23,Indiana Pacers,Sacramento Kings
+661,2016-01-24,Oklahoma City Thunder,Brooklyn Nets
+662,2016-01-24,Dallas Mavericks,Houston Rockets
+663,2016-01-24,Boston Celtics,Philadelphia 76ers
+664,2016-01-24,Los Angeles Clippers,Toronto Raptors
+665,2016-01-25,Miami Heat,Chicago Bulls
+666,2016-01-25,Minnesota Timberwolves,Cleveland Cavaliers
+667,2016-01-25,Atlanta Hawks,Denver Nuggets
+668,2016-01-25,San Antonio Spurs,Golden State Warriors
+669,2016-01-25,Orlando Magic,Memphis Grizzlies
+670,2016-01-25,Houston Rockets,New Orleans Pelicans
+671,2016-01-25,Charlotte Hornets,Sacramento Kings
+672,2016-01-25,Detroit Pistons,Utah Jazz
+673,2016-01-25,Boston Celtics,Washington Wizards
+674,2016-01-26,Miami Heat,Brooklyn Nets
+675,2016-01-26,Los Angeles Clippers,Indiana Pacers
+676,2016-01-26,Dallas Mavericks,Los Angeles Lakers
+677,2016-01-26,Orlando Magic,Milwaukee Bucks
+678,2016-01-26,Oklahoma City Thunder,New York Knicks
+679,2016-01-26,Phoenix Suns,Philadelphia 76ers
+680,2016-01-26,Sacramento Kings,Portland Trail Blazers
+681,2016-01-26,Washington Wizards,Toronto Raptors
+682,2016-01-27,Los Angeles Clippers,Atlanta Hawks
+683,2016-01-27,Denver Nuggets,Boston Celtics
+684,2016-01-27,Phoenix Suns,Cleveland Cavaliers
+685,2016-01-27,Philadelphia 76ers,Detroit Pistons
+686,2016-01-27,Dallas Mavericks,Golden State Warriors
+687,2016-01-27,Oklahoma City Thunder,Minnesota Timberwolves
+688,2016-01-27,Houston Rockets,San Antonio Spurs
+689,2016-01-27,Charlotte Hornets,Utah Jazz
+690,2016-01-28,Atlanta Hawks,Indiana Pacers
+691,2016-01-28,Chicago Bulls,Los Angeles Lakers
+692,2016-01-28,Milwaukee Bucks,Memphis Grizzlies
+693,2016-01-28,Sacramento Kings,New Orleans Pelicans
+694,2016-01-28,New York Knicks,Toronto Raptors
+695,2016-01-28,Denver Nuggets,Washington Wizards
+696,2016-01-29,Orlando Magic,Boston Celtics
+697,2016-01-29,Brooklyn Nets,Dallas Mavericks
+698,2016-01-29,Cleveland Cavaliers,Detroit Pistons
+699,2016-01-29,Los Angeles Lakers,Los Angeles Clippers
+700,2016-01-29,Miami Heat,Milwaukee Bucks
+701,2016-01-29,Phoenix Suns,New York Knicks
+702,2016-01-29,Houston Rockets,Oklahoma City Thunder
+703,2016-01-29,Charlotte Hornets,Portland Trail Blazers
+704,2016-01-29,Minnesota Timberwolves,Utah Jazz
+705,2016-01-30,San Antonio Spurs,Cleveland Cavaliers
+706,2016-01-30,Washington Wizards,Houston Rockets
+707,2016-01-30,Denver Nuggets,Indiana Pacers
+708,2016-01-30,Sacramento Kings,Memphis Grizzlies
+709,2016-01-30,Brooklyn Nets,New Orleans Pelicans
+710,2016-01-30,Golden State Warriors,Philadelphia 76ers
+711,2016-01-30,Detroit Pistons,Toronto Raptors
+712,2016-01-31,Phoenix Suns,Dallas Mavericks
+713,2016-01-31,Chicago Bulls,Los Angeles Clippers
+714,2016-01-31,Charlotte Hornets,Los Angeles Lakers
+715,2016-01-31,Atlanta Hawks,Miami Heat
+716,2016-01-31,Golden State Warriors,New York Knicks
+717,2016-01-31,Boston Celtics,Orlando Magic
+718,2016-01-31,Minnesota Timberwolves,Portland Trail Blazers
+719,2016-02-01,Dallas Mavericks,Atlanta Hawks
+720,2016-02-01,Detroit Pistons,Brooklyn Nets
+721,2016-02-01,Toronto Raptors,Denver Nuggets
+722,2016-02-01,Cleveland Cavaliers,Indiana Pacers
+723,2016-02-01,Memphis Grizzlies,New Orleans Pelicans
+724,2016-02-01,Washington Wizards,Oklahoma City Thunder
+725,2016-02-01,Milwaukee Bucks,Sacramento Kings
+726,2016-02-01,Orlando Magic,San Antonio Spurs
+727,2016-02-01,Chicago Bulls,Utah Jazz
+728,2016-02-02,Miami Heat,Houston Rockets
+729,2016-02-02,Minnesota Timberwolves,Los Angeles Lakers
+730,2016-02-02,Boston Celtics,New York Knicks
+731,2016-02-02,Toronto Raptors,Phoenix Suns
+732,2016-02-02,Milwaukee Bucks,Portland Trail Blazers
+733,2016-02-03,Detroit Pistons,Boston Celtics
+734,2016-02-03,Indiana Pacers,Brooklyn Nets
+735,2016-02-03,Cleveland Cavaliers,Charlotte Hornets
+736,2016-02-03,Miami Heat,Dallas Mavericks
+737,2016-02-03,Minnesota Timberwolves,Los Angeles Clippers
+738,2016-02-03,Orlando Magic,Oklahoma City Thunder
+739,2016-02-03,Atlanta Hawks,Philadelphia 76ers
+740,2016-02-03,Chicago Bulls,Sacramento Kings
+741,2016-02-03,New Orleans Pelicans,San Antonio Spurs
+742,2016-02-03,Denver Nuggets,Utah Jazz
+743,2016-02-03,Golden State Warriors,Washington Wizards
+744,2016-02-04,New York Knicks,Detroit Pistons
+745,2016-02-04,Los Angeles Lakers,New Orleans Pelicans
+746,2016-02-04,Houston Rockets,Phoenix Suns
+747,2016-02-04,Toronto Raptors,Portland Trail Blazers
+748,2016-02-05,Indiana Pacers,Atlanta Hawks
+749,2016-02-05,Sacramento Kings,Brooklyn Nets
+750,2016-02-05,Miami Heat,Charlotte Hornets
+751,2016-02-05,Boston Celtics,Cleveland Cavaliers
+752,2016-02-05,San Antonio Spurs,Dallas Mavericks
+753,2016-02-05,Chicago Bulls,Denver Nuggets
+754,2016-02-05,Memphis Grizzlies,New York Knicks
+755,2016-02-05,Los Angeles Clippers,Orlando Magic
+756,2016-02-05,Milwaukee Bucks,Utah Jazz
+757,2016-02-05,Philadelphia 76ers,Washington Wizards
+758,2016-02-06,Washington Wizards,Charlotte Hornets
+759,2016-02-06,New Orleans Pelicans,Cleveland Cavaliers
+760,2016-02-06,Oklahoma City Thunder,Golden State Warriors
+761,2016-02-06,Portland Trail Blazers,Houston Rockets
+762,2016-02-06,Detroit Pistons,Indiana Pacers
+763,2016-02-06,Dallas Mavericks,Memphis Grizzlies
+764,2016-02-06,Chicago Bulls,Minnesota Timberwolves
+765,2016-02-06,Brooklyn Nets,Philadelphia 76ers
+766,2016-02-06,Utah Jazz,Phoenix Suns
+767,2016-02-06,Los Angeles Lakers,San Antonio Spurs
+768,2016-02-07,Sacramento Kings,Boston Celtics
+769,2016-02-07,Los Angeles Clippers,Miami Heat
+770,2016-02-07,Denver Nuggets,New York Knicks
+771,2016-02-07,Atlanta Hawks,Orlando Magic
+772,2016-02-08,Orlando Magic,Atlanta Hawks
+773,2016-02-08,Denver Nuggets,Brooklyn Nets
+774,2016-02-08,Chicago Bulls,Charlotte Hornets
+775,2016-02-08,Sacramento Kings,Cleveland Cavaliers
+776,2016-02-08,Toronto Raptors,Detroit Pistons
+777,2016-02-08,Los Angeles Lakers,Indiana Pacers
+778,2016-02-08,Portland Trail Blazers,Memphis Grizzlies
+779,2016-02-08,New Orleans Pelicans,Minnesota Timberwolves
+780,2016-02-08,Los Angeles Clippers,Philadelphia 76ers
+781,2016-02-08,Oklahoma City Thunder,Phoenix Suns
+782,2016-02-09,Utah Jazz,Dallas Mavericks
+783,2016-02-09,Houston Rockets,Golden State Warriors
+784,2016-02-09,San Antonio Spurs,Miami Heat
+785,2016-02-09,Boston Celtics,Milwaukee Bucks
+786,2016-02-09,Washington Wizards,New York Knicks
+787,2016-02-10,Los Angeles Clippers,Boston Celtics
+788,2016-02-10,Memphis Grizzlies,Brooklyn Nets
+789,2016-02-10,Atlanta Hawks,Chicago Bulls
+790,2016-02-10,Los Angeles Lakers,Cleveland Cavaliers
+791,2016-02-10,Denver Nuggets,Detroit Pistons
+792,2016-02-10,Charlotte Hornets,Indiana Pacers
+793,2016-02-10,Toronto Raptors,Minnesota Timberwolves
+794,2016-02-10,Utah Jazz,New Orleans Pelicans
+795,2016-02-10,San Antonio Spurs,Orlando Magic
+796,2016-02-10,Sacramento Kings,Philadelphia 76ers
+797,2016-02-10,Golden State Warriors,Phoenix Suns
+798,2016-02-10,Houston Rockets,Portland Trail Blazers
+799,2016-02-11,Washington Wizards,Milwaukee Bucks
+800,2016-02-11,New Orleans Pelicans,Oklahoma City Thunder
+801,2016-02-18,Chicago Bulls,Cleveland Cavaliers
+802,2016-02-18,San Antonio Spurs,Los Angeles Clippers
+803,2016-02-19,Miami Heat,Atlanta Hawks
+804,2016-02-19,New York Knicks,Brooklyn Nets
+805,2016-02-19,Toronto Raptors,Chicago Bulls
+806,2016-02-19,San Antonio Spurs,Los Angeles Lakers
+807,2016-02-19,Minnesota Timberwolves,Memphis Grizzlies
+808,2016-02-19,Charlotte Hornets,Milwaukee Bucks
+809,2016-02-19,Philadelphia 76ers,New Orleans Pelicans
+810,2016-02-19,Indiana Pacers,Oklahoma City Thunder
+811,2016-02-19,Dallas Mavericks,Orlando Magic
+812,2016-02-19,Houston Rockets,Phoenix Suns
+813,2016-02-19,Golden State Warriors,Portland Trail Blazers
+814,2016-02-19,Denver Nuggets,Sacramento Kings
+815,2016-02-19,Boston Celtics,Utah Jazz
+816,2016-02-19,Detroit Pistons,Washington Wizards
+817,2016-02-20,Milwaukee Bucks,Atlanta Hawks
+818,2016-02-20,Golden State Warriors,Los Angeles Clippers
+819,2016-02-20,Washington Wizards,Miami Heat
+820,2016-02-20,New York Knicks,Minnesota Timberwolves
+821,2016-02-21,Charlotte Hornets,Brooklyn Nets
+822,2016-02-21,Los Angeles Lakers,Chicago Bulls
+823,2016-02-21,Philadelphia 76ers,Dallas Mavericks
+824,2016-02-21,Boston Celtics,Denver Nuggets
+825,2016-02-21,New Orleans Pelicans,Detroit Pistons
+826,2016-02-21,Cleveland Cavaliers,Oklahoma City Thunder
+827,2016-02-21,Indiana Pacers,Orlando Magic
+828,2016-02-21,San Antonio Spurs,Phoenix Suns
+829,2016-02-21,Utah Jazz,Portland Trail Blazers
+830,2016-02-21,Memphis Grizzlies,Toronto Raptors
+831,2016-02-22,Golden State Warriors,Atlanta Hawks
+832,2016-02-22,Detroit Pistons,Cleveland Cavaliers
+833,2016-02-22,Phoenix Suns,Los Angeles Clippers
+834,2016-02-22,Indiana Pacers,Miami Heat
+835,2016-02-22,Los Angeles Lakers,Milwaukee Bucks
+836,2016-02-22,Boston Celtics,Minnesota Timberwolves
+837,2016-02-22,Toronto Raptors,New York Knicks
+838,2016-02-23,Sacramento Kings,Denver Nuggets
+839,2016-02-23,Orlando Magic,Philadelphia 76ers
+840,2016-02-23,Brooklyn Nets,Portland Trail Blazers
+841,2016-02-23,Houston Rockets,Utah Jazz
+842,2016-02-23,New Orleans Pelicans,Washington Wizards
+843,2016-02-24,Washington Wizards,Chicago Bulls
+844,2016-02-24,Charlotte Hornets,Cleveland Cavaliers
+845,2016-02-24,Oklahoma City Thunder,Dallas Mavericks
+846,2016-02-24,Philadelphia 76ers,Detroit Pistons
+847,2016-02-24,New York Knicks,Indiana Pacers
+848,2016-02-24,Denver Nuggets,Los Angeles Clippers
+849,2016-02-24,Los Angeles Lakers,Memphis Grizzlies
+850,2016-02-24,Golden State Warriors,Miami Heat
+851,2016-02-24,San Antonio Spurs,Sacramento Kings
+852,2016-02-24,Minnesota Timberwolves,Toronto Raptors
+853,2016-02-25,Milwaukee Bucks,Boston Celtics
+854,2016-02-25,Oklahoma City Thunder,New Orleans Pelicans
+855,2016-02-25,Golden State Warriors,Orlando Magic
+856,2016-02-25,Brooklyn Nets,Phoenix Suns
+857,2016-02-25,Houston Rockets,Portland Trail Blazers
+858,2016-02-25,San Antonio Spurs,Utah Jazz
+859,2016-02-26,Chicago Bulls,Atlanta Hawks
+860,2016-02-26,Denver Nuggets,Dallas Mavericks
+861,2016-02-26,Charlotte Hornets,Indiana Pacers
+862,2016-02-26,Memphis Grizzlies,Los Angeles Lakers
+863,2016-02-26,Orlando Magic,New York Knicks
+864,2016-02-26,Washington Wizards,Philadelphia 76ers
+865,2016-02-26,Los Angeles Clippers,Sacramento Kings
+866,2016-02-26,Cleveland Cavaliers,Toronto Raptors
+867,2016-02-27,Miami Heat,Boston Celtics
+868,2016-02-27,Portland Trail Blazers,Chicago Bulls
+869,2016-02-27,San Antonio Spurs,Houston Rockets
+870,2016-02-27,Detroit Pistons,Milwaukee Bucks
+871,2016-02-27,Minnesota Timberwolves,New Orleans Pelicans
+872,2016-02-27,Golden State Warriors,Oklahoma City Thunder
+873,2016-02-27,Memphis Grizzlies,Phoenix Suns
+874,2016-02-27,Brooklyn Nets,Utah Jazz
+875,2016-02-28,Charlotte Hornets,Atlanta Hawks
+876,2016-02-28,Minnesota Timberwolves,Dallas Mavericks
+877,2016-02-28,Toronto Raptors,Detroit Pistons
+878,2016-02-28,Portland Trail Blazers,Indiana Pacers
+879,2016-02-28,Miami Heat,New York Knicks
+880,2016-02-28,Philadelphia 76ers,Orlando Magic
+881,2016-02-28,Cleveland Cavaliers,Washington Wizards
+882,2016-02-29,Utah Jazz,Boston Celtics
+883,2016-02-29,Indiana Pacers,Cleveland Cavaliers
+884,2016-02-29,Memphis Grizzlies,Denver Nuggets
+885,2016-02-29,Brooklyn Nets,Los Angeles Clippers
+886,2016-02-29,Houston Rockets,Milwaukee Bucks
+887,2016-02-29,Oklahoma City Thunder,Sacramento Kings
+888,2016-02-29,Philadelphia 76ers,Washington Wizards
+889,2016-03-01,Phoenix Suns,Charlotte Hornets
+890,2016-03-01,Orlando Magic,Dallas Mavericks
+891,2016-03-01,Atlanta Hawks,Golden State Warriors
+892,2016-03-01,Brooklyn Nets,Los Angeles Lakers
+893,2016-03-01,Chicago Bulls,Miami Heat
+894,2016-03-01,Portland Trail Blazers,New York Knicks
+895,2016-03-02,Portland Trail Blazers,Boston Celtics
+896,2016-03-02,Los Angeles Lakers,Denver Nuggets
+897,2016-03-02,New Orleans Pelicans,Houston Rockets
+898,2016-03-02,Oklahoma City Thunder,Los Angeles Clippers
+899,2016-03-02,Sacramento Kings,Memphis Grizzlies
+900,2016-03-02,Indiana Pacers,Milwaukee Bucks
+901,2016-03-02,Washington Wizards,Minnesota Timberwolves
+902,2016-03-02,Chicago Bulls,Orlando Magic
+903,2016-03-02,Charlotte Hornets,Philadelphia 76ers
+904,2016-03-02,Detroit Pistons,San Antonio Spurs
+905,2016-03-02,Utah Jazz,Toronto Raptors
+906,2016-03-03,Sacramento Kings,Dallas Mavericks
+907,2016-03-03,Oklahoma City Thunder,Golden State Warriors
+908,2016-03-03,Phoenix Suns,Miami Heat
+909,2016-03-03,San Antonio Spurs,New Orleans Pelicans
+910,2016-03-04,New York Knicks,Boston Celtics
+911,2016-03-04,Indiana Pacers,Charlotte Hornets
+912,2016-03-04,Washington Wizards,Cleveland Cavaliers
+913,2016-03-04,Brooklyn Nets,Denver Nuggets
+914,2016-03-04,Atlanta Hawks,Los Angeles Lakers
+915,2016-03-04,Utah Jazz,Memphis Grizzlies
+916,2016-03-04,Minnesota Timberwolves,Milwaukee Bucks
+917,2016-03-04,Phoenix Suns,Orlando Magic
+918,2016-03-04,Miami Heat,Philadelphia 76ers
+919,2016-03-04,Portland Trail Blazers,Toronto Raptors
+920,2016-03-05,Houston Rockets,Chicago Bulls
+921,2016-03-05,Boston Celtics,Cleveland Cavaliers
+922,2016-03-05,Atlanta Hawks,Los Angeles Clippers
+923,2016-03-05,Brooklyn Nets,Minnesota Timberwolves
+924,2016-03-05,Utah Jazz,New Orleans Pelicans
+925,2016-03-05,Detroit Pistons,New York Knicks
+926,2016-03-05,Sacramento Kings,San Antonio Spurs
+927,2016-03-05,Indiana Pacers,Washington Wizards
+928,2016-03-06,Dallas Mavericks,Denver Nuggets
+929,2016-03-06,Portland Trail Blazers,Detroit Pistons
+930,2016-03-06,Golden State Warriors,Los Angeles Lakers
+931,2016-03-06,Phoenix Suns,Memphis Grizzlies
+932,2016-03-06,Philadelphia 76ers,Miami Heat
+933,2016-03-06,Oklahoma City Thunder,Milwaukee Bucks
+934,2016-03-06,Houston Rockets,Toronto Raptors
+935,2016-03-07,Milwaukee Bucks,Chicago Bulls
+936,2016-03-07,Minnesota Timberwolves,Charlotte Hornets
+937,2016-03-07,Memphis Grizzlies,Cleveland Cavaliers
+938,2016-03-07,Los Angeles Clippers,Dallas Mavericks
+939,2016-03-07,Orlando Magic,Golden State Warriors
+940,2016-03-07,San Antonio Spurs,Indiana Pacers
+941,2016-03-07,Sacramento Kings,New Orleans Pelicans
+942,2016-03-08,New York Knicks,Denver Nuggets
+943,2016-03-08,Orlando Magic,Los Angeles Lakers
+944,2016-03-08,San Antonio Spurs,Minnesota Timberwolves
+945,2016-03-08,Washington Wizards,Portland Trail Blazers
+946,2016-03-08,Brooklyn Nets,Toronto Raptors
+947,2016-03-08,Atlanta Hawks,Utah Jazz
+948,2016-03-09,Memphis Grizzlies,Boston Celtics
+949,2016-03-09,New Orleans Pelicans,Charlotte Hornets
+950,2016-03-09,Detroit Pistons,Dallas Mavericks
+951,2016-03-09,Utah Jazz,Golden State Warriors
+952,2016-03-09,Miami Heat,Milwaukee Bucks
+953,2016-03-09,Los Angeles Clippers,Oklahoma City Thunder
+954,2016-03-09,Houston Rockets,Philadelphia 76ers
+955,2016-03-09,New York Knicks,Phoenix Suns
+956,2016-03-09,Cleveland Cavaliers,Sacramento Kings
+957,2016-03-10,Phoenix Suns,Denver Nuggets
+958,2016-03-10,Cleveland Cavaliers,Los Angeles Lakers
+959,2016-03-10,Chicago Bulls,San Antonio Spurs
+960,2016-03-10,Atlanta Hawks,Toronto Raptors
+961,2016-03-11,Houston Rockets,Boston Celtics
+962,2016-03-11,Miami Heat,Chicago Bulls
+963,2016-03-11,Detroit Pistons,Charlotte Hornets
+964,2016-03-11,Portland Trail Blazers,Golden State Warriors
+965,2016-03-11,New York Knicks,Los Angeles Clippers
+966,2016-03-11,New Orleans Pelicans,Memphis Grizzlies
+967,2016-03-11,Minnesota Timberwolves,Oklahoma City Thunder
+968,2016-03-11,Brooklyn Nets,Philadelphia 76ers
+969,2016-03-11,Orlando Magic,Sacramento Kings
+970,2016-03-11,Washington Wizards,Utah Jazz
+971,2016-03-12,Memphis Grizzlies,Atlanta Hawks
+972,2016-03-12,Houston Rockets,Charlotte Hornets
+973,2016-03-12,Indiana Pacers,Dallas Mavericks
+974,2016-03-12,Washington Wizards,Denver Nuggets
+975,2016-03-12,Phoenix Suns,Golden State Warriors
+976,2016-03-12,New Orleans Pelicans,Milwaukee Bucks
+977,2016-03-12,Detroit Pistons,Philadelphia 76ers
+978,2016-03-12,Orlando Magic,Portland Trail Blazers
+979,2016-03-12,Oklahoma City Thunder,San Antonio Spurs
+980,2016-03-12,Miami Heat,Toronto Raptors
+981,2016-03-13,Indiana Pacers,Atlanta Hawks
+982,2016-03-13,Milwaukee Bucks,Brooklyn Nets
+983,2016-03-13,Cleveland Cavaliers,Los Angeles Clippers
+984,2016-03-13,New York Knicks,Los Angeles Lakers
+985,2016-03-13,Utah Jazz,Sacramento Kings
+986,2016-03-14,Dallas Mavericks,Charlotte Hornets
+987,2016-03-14,New Orleans Pelicans,Golden State Warriors
+988,2016-03-14,Memphis Grizzlies,Houston Rockets
+989,2016-03-14,Denver Nuggets,Miami Heat
+990,2016-03-14,Portland Trail Blazers,Oklahoma City Thunder
+991,2016-03-14,Minnesota Timberwolves,Phoenix Suns
+992,2016-03-14,Chicago Bulls,Toronto Raptors
+993,2016-03-14,Cleveland Cavaliers,Utah Jazz
+994,2016-03-14,Detroit Pistons,Washington Wizards
+995,2016-03-15,Philadelphia 76ers,Brooklyn Nets
+996,2016-03-15,Boston Celtics,Indiana Pacers
+997,2016-03-15,Sacramento Kings,Los Angeles Lakers
+998,2016-03-15,Toronto Raptors,Milwaukee Bucks
+999,2016-03-15,Denver Nuggets,Orlando Magic
+1000,2016-03-15,Los Angeles Clippers,San Antonio Spurs
+1001,2016-03-16,Oklahoma City Thunder,Boston Celtics
+1002,2016-03-16,Orlando Magic,Charlotte Hornets
+1003,2016-03-16,Dallas Mavericks,Cleveland Cavaliers
+1004,2016-03-16,Atlanta Hawks,Detroit Pistons
+1005,2016-03-16,New York Knicks,Golden State Warriors
+1006,2016-03-16,Los Angeles Clippers,Houston Rockets
+1007,2016-03-16,Minnesota Timberwolves,Memphis Grizzlies
+1008,2016-03-16,New Orleans Pelicans,Sacramento Kings
+1009,2016-03-16,Chicago Bulls,Washington Wizards
+1010,2016-03-17,Denver Nuggets,Atlanta Hawks
+1011,2016-03-17,Brooklyn Nets,Chicago Bulls
+1012,2016-03-17,Toronto Raptors,Indiana Pacers
+1013,2016-03-17,Charlotte Hornets,Miami Heat
+1014,2016-03-17,Memphis Grizzlies,Milwaukee Bucks
+1015,2016-03-17,Washington Wizards,Philadelphia 76ers
+1016,2016-03-17,Portland Trail Blazers,San Antonio Spurs
+1017,2016-03-17,Phoenix Suns,Utah Jazz
+1018,2016-03-18,Golden State Warriors,Dallas Mavericks
+1019,2016-03-18,Sacramento Kings,Detroit Pistons
+1020,2016-03-18,Minnesota Timberwolves,Houston Rockets
+1021,2016-03-18,Phoenix Suns,Los Angeles Lakers
+1022,2016-03-18,Portland Trail Blazers,New Orleans Pelicans
+1023,2016-03-18,Cleveland Cavaliers,Orlando Magic
+1024,2016-03-18,Oklahoma City Thunder,Philadelphia 76ers
+1025,2016-03-18,Boston Celtics,Toronto Raptors
+1026,2016-03-19,Houston Rockets,Atlanta Hawks
+1027,2016-03-19,Utah Jazz,Chicago Bulls
+1028,2016-03-19,Denver Nuggets,Charlotte Hornets
+1029,2016-03-19,Brooklyn Nets,Detroit Pistons
+1030,2016-03-19,Oklahoma City Thunder,Indiana Pacers
+1031,2016-03-19,Los Angeles Clippers,Memphis Grizzlies
+1032,2016-03-19,Cleveland Cavaliers,Miami Heat
+1033,2016-03-19,Golden State Warriors,San Antonio Spurs
+1034,2016-03-19,New York Knicks,Washington Wizards
+1035,2016-03-20,Portland Trail Blazers,Dallas Mavericks
+1036,2016-03-20,Utah Jazz,Milwaukee Bucks
+1037,2016-03-20,Los Angeles Clippers,New Orleans Pelicans
+1038,2016-03-20,Sacramento Kings,New York Knicks
+1039,2016-03-20,Boston Celtics,Philadelphia 76ers
+1040,2016-03-20,Orlando Magic,Toronto Raptors
+1041,2016-03-21,Washington Wizards,Atlanta Hawks
+1042,2016-03-21,Orlando Magic,Boston Celtics
+1043,2016-03-21,Sacramento Kings,Chicago Bulls
+1044,2016-03-21,San Antonio Spurs,Charlotte Hornets
+1045,2016-03-21,Denver Nuggets,Cleveland Cavaliers
+1046,2016-03-21,Milwaukee Bucks,Detroit Pistons
+1047,2016-03-21,Philadelphia 76ers,Indiana Pacers
+1048,2016-03-21,Golden State Warriors,Minnesota Timberwolves
+1049,2016-03-21,Memphis Grizzlies,Phoenix Suns
+1050,2016-03-22,Charlotte Hornets,Brooklyn Nets
+1051,2016-03-22,Memphis Grizzlies,Los Angeles Lakers
+1052,2016-03-22,Miami Heat,New Orleans Pelicans
+1053,2016-03-22,Houston Rockets,Oklahoma City Thunder
+1054,2016-03-23,Toronto Raptors,Boston Celtics
+1055,2016-03-23,New York Knicks,Chicago Bulls
+1056,2016-03-23,Milwaukee Bucks,Cleveland Cavaliers
+1057,2016-03-23,Philadelphia 76ers,Denver Nuggets
+1058,2016-03-23,Orlando Magic,Detroit Pistons
+1059,2016-03-23,Los Angeles Clippers,Golden State Warriors
+1060,2016-03-23,Utah Jazz,Houston Rockets
+1061,2016-03-23,Sacramento Kings,Minnesota Timberwolves
+1062,2016-03-23,Los Angeles Lakers,Phoenix Suns
+1063,2016-03-23,Dallas Mavericks,Portland Trail Blazers
+1064,2016-03-23,Miami Heat,San Antonio Spurs
+1065,2016-03-23,Atlanta Hawks,Washington Wizards
+1066,2016-03-24,Cleveland Cavaliers,Brooklyn Nets
+1067,2016-03-24,New Orleans Pelicans,Indiana Pacers
+1068,2016-03-24,Portland Trail Blazers,Los Angeles Clippers
+1069,2016-03-24,Chicago Bulls,New York Knicks
+1070,2016-03-24,Utah Jazz,Oklahoma City Thunder
+1071,2016-03-25,Milwaukee Bucks,Atlanta Hawks
+1072,2016-03-25,Charlotte Hornets,Detroit Pistons
+1073,2016-03-25,Dallas Mavericks,Golden State Warriors
+1074,2016-03-25,Toronto Raptors,Houston Rockets
+1075,2016-03-25,Denver Nuggets,Los Angeles Lakers
+1076,2016-03-25,Orlando Magic,Miami Heat
+1077,2016-03-25,Phoenix Suns,Sacramento Kings
+1078,2016-03-25,Memphis Grizzlies,San Antonio Spurs
+1079,2016-03-25,Minnesota Timberwolves,Washington Wizards
+1080,2016-03-26,Indiana Pacers,Brooklyn Nets
+1081,2016-03-26,Atlanta Hawks,Detroit Pistons
+1082,2016-03-26,Charlotte Hornets,Milwaukee Bucks
+1083,2016-03-26,Utah Jazz,Minnesota Timberwolves
+1084,2016-03-26,Toronto Raptors,New Orleans Pelicans
+1085,2016-03-26,Cleveland Cavaliers,New York Knicks
+1086,2016-03-26,San Antonio Spurs,Oklahoma City Thunder
+1087,2016-03-26,Chicago Bulls,Orlando Magic
+1088,2016-03-26,Boston Celtics,Phoenix Suns
+1089,2016-03-26,Philadelphia 76ers,Portland Trail Blazers
+1090,2016-03-27,Philadelphia 76ers,Golden State Warriors
+1091,2016-03-27,Houston Rockets,Indiana Pacers
+1092,2016-03-27,Denver Nuggets,Los Angeles Clippers
+1093,2016-03-27,Washington Wizards,Los Angeles Lakers
+1094,2016-03-27,Dallas Mavericks,Sacramento Kings
+1095,2016-03-28,Atlanta Hawks,Chicago Bulls
+1096,2016-03-28,Dallas Mavericks,Denver Nuggets
+1097,2016-03-28,Boston Celtics,Los Angeles Clippers
+1098,2016-03-28,San Antonio Spurs,Memphis Grizzlies
+1099,2016-03-28,Brooklyn Nets,Miami Heat
+1100,2016-03-28,Phoenix Suns,Minnesota Timberwolves
+1101,2016-03-28,New York Knicks,New Orleans Pelicans
+1102,2016-03-28,Sacramento Kings,Portland Trail Blazers
+1103,2016-03-28,Oklahoma City Thunder,Toronto Raptors
+1104,2016-03-28,Los Angeles Lakers,Utah Jazz
+1105,2016-03-29,Houston Rockets,Cleveland Cavaliers
+1106,2016-03-29,Oklahoma City Thunder,Detroit Pistons
+1107,2016-03-29,Washington Wizards,Golden State Warriors
+1108,2016-03-29,Chicago Bulls,Indiana Pacers
+1109,2016-03-29,Brooklyn Nets,Orlando Magic
+1110,2016-03-29,Charlotte Hornets,Philadelphia 76ers
+1111,2016-03-30,New York Knicks,Dallas Mavericks
+1112,2016-03-30,Miami Heat,Los Angeles Lakers
+1113,2016-03-30,Denver Nuggets,Memphis Grizzlies
+1114,2016-03-30,Phoenix Suns,Milwaukee Bucks
+1115,2016-03-30,Los Angeles Clippers,Minnesota Timberwolves
+1116,2016-03-30,Washington Wizards,Sacramento Kings
+1117,2016-03-30,New Orleans Pelicans,San Antonio Spurs
+1118,2016-03-30,Atlanta Hawks,Toronto Raptors
+1119,2016-03-30,Golden State Warriors,Utah Jazz
+1120,2016-03-31,Brooklyn Nets,Cleveland Cavaliers
+1121,2016-03-31,Chicago Bulls,Houston Rockets
+1122,2016-03-31,Orlando Magic,Indiana Pacers
+1123,2016-03-31,Denver Nuggets,New Orleans Pelicans
+1124,2016-03-31,Los Angeles Clippers,Oklahoma City Thunder
+1125,2016-03-31,Boston Celtics,Portland Trail Blazers
+1126,2016-04-01,Cleveland Cavaliers,Atlanta Hawks
+1127,2016-04-01,Philadelphia 76ers,Charlotte Hornets
+1128,2016-04-01,Dallas Mavericks,Detroit Pistons
+1129,2016-04-01,Boston Celtics,Golden State Warriors
+1130,2016-04-01,Toronto Raptors,Memphis Grizzlies
+1131,2016-04-01,Orlando Magic,Milwaukee Bucks
+1132,2016-04-01,Brooklyn Nets,New York Knicks
+1133,2016-04-01,Washington Wizards,Phoenix Suns
+1134,2016-04-01,Miami Heat,Sacramento Kings
+1135,2016-04-01,Minnesota Timberwolves,Utah Jazz
+1136,2016-04-02,Detroit Pistons,Chicago Bulls
+1137,2016-04-02,Sacramento Kings,Denver Nuggets
+1138,2016-04-02,Indiana Pacers,Philadelphia 76ers
+1139,2016-04-02,Miami Heat,Portland Trail Blazers
+1140,2016-04-02,Toronto Raptors,San Antonio Spurs
+1141,2016-04-03,New Orleans Pelicans,Brooklyn Nets
+1142,2016-04-03,Charlotte Hornets,Cleveland Cavaliers
+1143,2016-04-03,Portland Trail Blazers,Golden State Warriors
+1144,2016-04-03,Oklahoma City Thunder,Houston Rockets
+1145,2016-04-03,Washington Wizards,Los Angeles Clippers
+1146,2016-04-03,Boston Celtics,Los Angeles Lakers
+1147,2016-04-03,Chicago Bulls,Milwaukee Bucks
+1148,2016-04-03,Dallas Mavericks,Minnesota Timberwolves
+1149,2016-04-03,Indiana Pacers,New York Knicks
+1150,2016-04-03,Memphis Grizzlies,Orlando Magic
+1151,2016-04-03,Utah Jazz,Phoenix Suns
+1152,2016-04-05,Phoenix Suns,Atlanta Hawks
+1153,2016-04-05,Oklahoma City Thunder,Denver Nuggets
+1154,2016-04-05,Minnesota Timberwolves,Golden State Warriors
+1155,2016-04-05,Los Angeles Lakers,Los Angeles Clippers
+1156,2016-04-05,Chicago Bulls,Memphis Grizzlies
+1157,2016-04-05,Detroit Pistons,Miami Heat
+1158,2016-04-05,Cleveland Cavaliers,Milwaukee Bucks
+1159,2016-04-05,New Orleans Pelicans,Philadelphia 76ers
+1160,2016-04-05,Portland Trail Blazers,Sacramento Kings
+1161,2016-04-05,Charlotte Hornets,Toronto Raptors
+1162,2016-04-05,San Antonio Spurs,Utah Jazz
+1163,2016-04-06,New Orleans Pelicans,Boston Celtics
+1164,2016-04-06,Houston Rockets,Dallas Mavericks
+1165,2016-04-06,Cleveland Cavaliers,Indiana Pacers
+1166,2016-04-06,Los Angeles Clippers,Los Angeles Lakers
+1167,2016-04-06,Charlotte Hornets,New York Knicks
+1168,2016-04-06,Detroit Pistons,Orlando Magic
+1169,2016-04-06,Oklahoma City Thunder,Portland Trail Blazers
+1170,2016-04-06,Brooklyn Nets,Washington Wizards
+1171,2016-04-07,Toronto Raptors,Atlanta Hawks
+1172,2016-04-07,San Antonio Spurs,Golden State Warriors
+1173,2016-04-07,Phoenix Suns,Houston Rockets
+1174,2016-04-07,Chicago Bulls,Miami Heat
+1175,2016-04-07,Minnesota Timberwolves,Sacramento Kings
+1176,2016-04-08,Milwaukee Bucks,Boston Celtics
+1177,2016-04-08,Brooklyn Nets,Charlotte Hornets
+1178,2016-04-08,Memphis Grizzlies,Dallas Mavericks
+1179,2016-04-08,San Antonio Spurs,Denver Nuggets
+1180,2016-04-08,Washington Wizards,Detroit Pistons
+1181,2016-04-08,Los Angeles Lakers,New Orleans Pelicans
+1182,2016-04-08,Miami Heat,Orlando Magic
+1183,2016-04-08,New York Knicks,Philadelphia 76ers
+1184,2016-04-08,Indiana Pacers,Toronto Raptors
+1185,2016-04-08,Los Angeles Clippers,Utah Jazz
+1186,2016-04-09,Boston Celtics,Atlanta Hawks
+1187,2016-04-09,Cleveland Cavaliers,Chicago Bulls
+1188,2016-04-09,Golden State Warriors,Memphis Grizzlies
+1189,2016-04-09,Phoenix Suns,New Orleans Pelicans
+1190,2016-04-09,Minnesota Timberwolves,Portland Trail Blazers
+1191,2016-04-09,Oklahoma City Thunder,Sacramento Kings
+1192,2016-04-10,Utah Jazz,Denver Nuggets
+1193,2016-04-10,Los Angeles Lakers,Houston Rockets
+1194,2016-04-10,Brooklyn Nets,Indiana Pacers
+1195,2016-04-10,Dallas Mavericks,Los Angeles Clippers
+1196,2016-04-10,Orlando Magic,Miami Heat
+1197,2016-04-10,Toronto Raptors,New York Knicks
+1198,2016-04-10,Milwaukee Bucks,Philadelphia 76ers
+1199,2016-04-10,Golden State Warriors,San Antonio Spurs
+1200,2016-04-10,Charlotte Hornets,Washington Wizards
+1201,2016-04-11,Charlotte Hornets,Boston Celtics
+1202,2016-04-11,Washington Wizards,Brooklyn Nets
+1203,2016-04-11,Atlanta Hawks,Cleveland Cavaliers
+1204,2016-04-11,Houston Rockets,Minnesota Timberwolves
+1205,2016-04-11,Chicago Bulls,New Orleans Pelicans
+1206,2016-04-11,Los Angeles Lakers,Oklahoma City Thunder
+1207,2016-04-11,Milwaukee Bucks,Orlando Magic
+1208,2016-04-11,Sacramento Kings,Phoenix Suns
+1209,2016-04-11,Dallas Mavericks,Utah Jazz
+1210,2016-04-12,Miami Heat,Detroit Pistons
+1211,2016-04-12,New York Knicks,Indiana Pacers
+1212,2016-04-12,Memphis Grizzlies,Los Angeles Clippers
+1213,2016-04-12,Oklahoma City Thunder,San Antonio Spurs
+1214,2016-04-12,Philadelphia 76ers,Toronto Raptors
+1215,2016-04-13,Miami Heat,Boston Celtics
+1216,2016-04-13,Toronto Raptors,Brooklyn Nets
+1217,2016-04-13,Philadelphia 76ers,Chicago Bulls
+1218,2016-04-13,Orlando Magic,Charlotte Hornets
+1219,2016-04-13,Detroit Pistons,Cleveland Cavaliers
+1220,2016-04-13,San Antonio Spurs,Dallas Mavericks
+1221,2016-04-13,Memphis Grizzlies,Golden State Warriors
+1222,2016-04-13,Sacramento Kings,Houston Rockets
+1223,2016-04-13,Utah Jazz,Los Angeles Lakers
+1224,2016-04-13,Indiana Pacers,Milwaukee Bucks
+1225,2016-04-13,New Orleans Pelicans,Minnesota Timberwolves
+1226,2016-04-13,Los Angeles Clippers,Phoenix Suns
+1227,2016-04-13,Denver Nuggets,Portland Trail Blazers
+1228,2016-04-13,Atlanta Hawks,Washington Wizards
