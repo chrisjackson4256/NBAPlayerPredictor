@@ -5,3 +5,5 @@ This is a python code which will:
 	3) filter the players by playing style
 	4) build linear regression models for each player style and each player and 
 	   combine the two using a weighted sum.  
+
+See https://docs.google.com/presentation/d/1OBGqIQmaRgoH7ITU8bAxozZl67DMJdBl5AoQ7i_4_IQ/edit?usp=sharing for more details.
